@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-core
+openai
+pydantic
+requests
+python-dotenv
+tabulate

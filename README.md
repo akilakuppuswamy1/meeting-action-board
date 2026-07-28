@@ -31,12 +31,3 @@ pip install -r requirements.txt
 
 4. Run notebook
 
-## Note
-
-The implementation is complete. During testing, OpenRouter returned:
-
-403 PermissionDeniedError
-Key limit exceeded (total limit)
-
-This is an API account/quota limitation.
-
